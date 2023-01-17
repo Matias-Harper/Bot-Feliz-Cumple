@@ -1,6 +1,8 @@
 # El Bot Feliz Cumpleaños.
 Código que nos permite automatizar saludos o mensajes a amigos de Instagram con Python
 
+<img src="https://github.com/Matias-Harper/Bot-Feliz-Cumple/blob/main/header.png"/>
+
 Herramientas utilizadas: Pandas y Selenium
 
 Para realizar el saludador debemos elaborar una lista en Excel con tres columnas, una con el nombre de la persona, otra la fecha de cumpleaños ( o fecha en la que queremos que se le envíe el mensaje) y la última con su usuario de Instagram.
