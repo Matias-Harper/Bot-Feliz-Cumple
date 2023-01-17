@@ -16,3 +16,4 @@ En este podemos encontrar y leer las funciones con sus respectivos comentarios
 
 Luego encontraremos los archivos Saludador.py y Funcionessaludaor.py que nos permite encapsular el código para que generemos un ejecutable que corra todos los días.
 
+Cualquier duda o consulta les dejo mi Linkedin :https://www.linkedin.com/in/matias-naranjo-harper/
